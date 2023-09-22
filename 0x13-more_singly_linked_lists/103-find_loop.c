@@ -31,3 +31,5 @@ break;
 }
 }
 *h = NULL;
+return(len);
+}
